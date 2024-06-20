@@ -1,4 +1,4 @@
-#GOALSETTING WEBAPP
+# GOALSETTER WEBAPP
 
 ## Usage
 
@@ -19,4 +19,16 @@ npm install
 
 ```
 npm run server
+```
+
+### Run App
+
+```
+# Locate to GoalSetting folder and run dev
+cd GoalSetting
+npm run dev
+
+# Locate to your frontend folder and run build
+cd frontend
+npm run build
 ```
